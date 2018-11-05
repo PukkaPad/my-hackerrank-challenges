@@ -57,3 +57,7 @@ ipython_config.py
 
 # pyenv
 .python-version
+
+# sublime
+*.sublime-project
+*.sublime-workspace

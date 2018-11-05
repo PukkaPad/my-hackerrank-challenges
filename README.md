@@ -14,11 +14,11 @@ It will take a while for me to fullfill those 2 goals because of milited free ti
 ## Challenges
 ======
 
-* [30 Days of Code](###30-Days-of-Code) 
+* [30 Days of Code](#30-Days-of-Code) 
 
-* [Problem Solving (Algorithms)](###problem-solving-algorithms) 
+* [Problem Solving (Algorithms)](#problem-solving-algorithms) 
 
-* [Python](###python)
+* [Python](#python)
 
 30 Days of Code
 ------
@@ -29,7 +29,7 @@ It will take a while for me to fullfill those 2 goals because of milited free ti
 2 | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution]()
 3 | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution]()
 4 | [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution]()
-5 | [Day 4: Class vc. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution]()
+5 | [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution]()
 6 | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution]()
 7 | [Day 6: Let's review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution]()
 8 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution]()
