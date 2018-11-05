@@ -25,16 +25,16 @@ It will take a while for me to fullfill those 2 goals because of milited free ti
 
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution]()
-2 | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution]()
-3 | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution]()
-4 | [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution]()
-5 | [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution]()
-6 | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution]()
-7 | [Day 6: Let's review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution]()
-8 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution]()
-9 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution]()
-10 | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution]()
+1 | [Day 0: Hello, World.](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Solution](https://github.com/PukkaPad/my-hackerrank-challenges/blob/master/30-days-of-code/00_HelloWorld/solution.py)
+2 | [Day 1: Data Types](https://www.hackerrank.com/challenges/30-data-types/problem) | [Solution](https://github.com/PukkaPad/my-hackerrank-challenges/blob/master/30-days-of-code/01_DataTypes/solution.py)
+3 | [Day 2: Operators](https://www.hackerrank.com/challenges/30-operators/problem) | [Solution](https://github.com/PukkaPad/my-hackerrank-challenges/blob/master/30-days-of-code/02_Operators/solution.py)
+4 | [Day 3: Intro to Conditional Statements](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Solution](https://github.com/PukkaPad/my-hackerrank-challenges/tree/master/30-days-of-code/03_IntroConditionalStatements/solution.py)
+5 | [Day 4: Class vs. Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Solution](https://github.com/PukkaPad/my-hackerrank-challenges/blob/master/30-days-of-code/04_Class_vs_Instance/solution.py)
+6 | [Day 5: Loops](https://www.hackerrank.com/challenges/30-loops/problem) | [Solution](https://github.com/PukkaPad/my-hackerrank-challenges/blob/master/30-days-of-code/05_Loops/solution.py)
+7 | [Day 6: Let's review](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Solution](https://github.com/PukkaPad/my-hackerrank-challenges/blob/master/30-days-of-code/06_LetsReview/solution.py)
+8 | [Day 7: Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Solution](https://github.com/PukkaPad/my-hackerrank-challenges/blob/master/30-days-of-code/07_Arrays/solution.py)
+9 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution](https://github.com/PukkaPad/my-hackerrank-challenges/blob/master/30-days-of-code/08_Dictionaries_and_Maps/solution.py)
+10 | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution](https://github.com/PukkaPad/my-hackerrank-challenges/blob/master/30-days-of-code/10_BinaryNumbers/solution.py)
 
 Problem Solving (Algorithms)
 ---
