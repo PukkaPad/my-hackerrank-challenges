@@ -20,7 +20,7 @@ It will take a while for me to fullfill those 2 goals because of milited free ti
 
 * [Python](###python)
 
-### 30 Days of Code
+30 Days of Code
 ------
 
 \# | Challenge | Solution
@@ -36,7 +36,7 @@ It will take a while for me to fullfill those 2 goals because of milited free ti
 9 | [Day 8: Dictionaries and Maps](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Solution]()
 10 | [Day 10: Binary Numbers](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Solution]()
 
-### Problem Solving (Algorithms)
+Problem Solving (Algorithms)
 ---
 
 * [Warmup](#warmup) (10/10)
@@ -89,6 +89,6 @@ It will take a while for me to fullfill those 2 goals because of milited free ti
 2 | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1) | [Solution]()
 
 
-### Python 
+Python 
 ---
 
