@@ -91,4 +91,24 @@ Problem Solving (Algorithms)
 
 Python 
 ---
+* [Introduction](#Introduction) 
+* [Basic Data Types](#BasicDataTypes) 
+* [Strings](#strings) 
+* [Sets](#Sets) 
 
+
+#### Introduction
+\# | Challenge | Solution
+:---:|:---:|:---:
+
+#### Basic Data Types
+\# | Challenge | Solution
+:---:|:---:|:---:
+
+#### Strings
+\# | Challenge | Solution
+:---:|:---:|:---:
+
+#### Sets
+\# | Challenge | Solution
+:---:|:---:|:---:
